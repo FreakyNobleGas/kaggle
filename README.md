@@ -1,11 +1,19 @@
 # Team repository for Kaggle ML/AI Competitions
 
 ## Team Members
-- Adrien Forkum ([Sasquats](https://github.com/Sasquats))
-- Karl H ([Mechanochist](https://github.com/Mechanochist))
-- Matt Barrile ([mattbarrile](https://github.com/mattbarrile))
-- Nick Quinn ([FreakyNobleGas](https://github.com/FreakyNobleGas))
-- X'Zaiver Wolfinbarger ([Wolfinbarger](https://github.com/Wolfinbarger))
+- Adrien Forkum 
+  - Github: https://github.com/Sasquats
+- Karl H 
+  - Github: https://github.com/Mechanochist
+- Matt Barrile 
+  - Github: https://github.com/mattbarrile
+  - Kaggle: https://www.kaggle.com/mattbarrile
+- Nick Quinn 
+  - Github: https://github.com/FreakyNobleGas
+  - Kaggle: https://www.kaggle.com/nickquinn
+- X'Zaiver Wolfinbarger 
+  - GitHub: https://github.com/Wolfinbarger
+  - Kaggle: https://www.kaggle.com/altavion
 
 ## Projects
 TBD
